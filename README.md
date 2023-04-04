@@ -5,7 +5,7 @@ This is a simple Python program that takes a user input for a number of seconds,
 
 To use this program, first clone the repository to your local machine:
 ```bash
-git clone https://github.com/your_username/countdown-timer.git
+git clone https://github.com/ochudi/countdown_timer.git
 ```
 
 ## Usage
