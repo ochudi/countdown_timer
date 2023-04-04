@@ -13,7 +13,7 @@ git clone https://github.com/your_username/countdown-timer.git
 Run the program by executing the following command in your terminal:
 
 ```bash
-python countdown.py
+python main.py
 ```
 
 Enter the number of seconds you want to count down from when prompted.
